@@ -1,0 +1,5 @@
+#忽略index.css
+index.css
+
+#忽略app目录下所有的文件
+app/
